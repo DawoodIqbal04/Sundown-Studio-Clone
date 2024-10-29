@@ -764,25 +764,25 @@ body {
         background-size: cover;
     }
     .projects-showcase #pr1 {
-        background-image: url(image1.webp);
+        background-image: url(./utilities/image1.webp);
     }
     .projects-showcase #pr2 {
-        background-image: url(image2.webp);
+        background-image: url(./utilities/image2.webp);
     }
     .projects-showcase #pr3 {
-        background-image: url(image3.webp);
+        background-image: url(./utilities/image3.webp);
     }
     .projects-showcase #pr4 {
-        background-image: url(image4.webp);
+        background-image: url(./utilities/image4.webp);
     }
     .projects-showcase #pr5 {
-        background-image: url(image5.webp);
+        background-image: url(./utilities/image5.webp);
     }
     .projects-showcase #pr6 {
-        background-image: url(image6.webp);
+        background-image: url(./utilities/image6.webp);
     }
     .projects-showcase #pr7 {
-        background-image: url(image7.webp);
+        background-image: url(./utilities/image7.webp);
     }
     .projects-showcase .left {
         font-size: 3vh;
